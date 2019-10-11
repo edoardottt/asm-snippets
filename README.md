@@ -1,5 +1,53 @@
 # Asm_mars_examples
-Some of my assembly code ( examples, iterative and recursive algorithms ).
+Some of my assembly code (examples, iterative and recursive algorithms).
+I wrote these files while I was attending 'Computer Architecture' held by Prof. Sterbini in Sapienza University.
+The course concerned about:
+
+      Computer Abstractions and Technology
+
+      Operations of the Computer Hardware
+
+      Operands of the Computer Hardware
+
+      Logical Operations 86
+
+      Parallelism and Instructions: Synchronization
+
+      Arithmetic for Computers
+
+      Parallelism and Computer Arithmetic
+
+      The Processor Logic Design
+
+      Pipelining
+
+      Data Hazards: Forwarding vs. Stalling
+
+      Control Hazards
+
+      Exceptions
+
+      Memory Hierarchy
+
+      Caches
+
+      Measuring and Improving Cache Performance
+
+      Virtual Memory
+
+      Cache Coherence
+
+      Storage and Other I/O Topics
+
+      Disk Storage
+
+      Flash Storage
+
+      Connecting Processors, Memory, and I/O Devices
+
+      Interfacing I/O Devices to the Processor, Memory, and Operating System
+
+[The Mips Architecture](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/CPU-con-pipeline-completa.pdf)
 
 --------------------------
 If you liked it drop a :star:
