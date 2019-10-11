@@ -49,6 +49,12 @@ The course concerned about:
 
 [The Mips Architecture](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/CPU-con-pipeline-completa.pdf)
 
+-------------------------
+Versioning ::
+-------------------------
+
+[v1.0](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.0)
+
 --------------------------
 If you liked it drop a :star:
 --------------------------
