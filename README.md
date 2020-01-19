@@ -3,7 +3,7 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/01b7f84f58384bad948b281f22f7b730)](https://www.codacy.com/manual/edoardottt/twitterBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=edoardottt/twitterBot&amp;utm_campaign=Badge_Grade)
 
-I wrote these files while I was attending 'Computer Architecture' held by Prof. Sterbini in Sapienza University.
+I wrote these files while I was attending 'Computer's Architecture' held by Prof. Sterbini in Sapienza University of Rome.
 The course concerned about:
 
       Computer Abstractions and Technology
