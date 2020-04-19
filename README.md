@@ -5,6 +5,8 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 
 <div align="center"><img width="300" height="300" src="https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/unnamed.png" /></div>
 
+-------------------------------------------------------------
+
 **MIPS ARCHITECTURE**
 ![cpuwithcompletepipeline](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/2020-02-10-101216_1366x768_scrot.png)
 
