@@ -1,9 +1,9 @@
 # Asm_mars_examples
 Some of my assembly code (examples, iterative and recursive algorithms).
 
-<div style="text-align:center"><img width="300" height="300" src="https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/unnamed.png" /></div>
+<div align="center"><img width="300" height="300" src="https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/unnamed.png" /></div>
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/01b7f84f58384bad948b281f22f7b730)](https://www.codacy.com/manual/edoardottt/twitterBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=edoardottt/twitterBot&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/01b7f84f58384bad948b281f22f7b730)](https://www.codacy.com/manual/edoardottt/twitterBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=edoardottt/twitterBot&amp;utm_campaign=Badge_Grade)
 
 **MIPS ARCHITECTURE**
 ![cpuwithcompletepipeline](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/2020-02-10-101216_1366x768_scrot.png)
