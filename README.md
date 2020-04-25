@@ -8,6 +8,9 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 -------------------------------------------------------------
 
 **MIPS ARCHITECTURE**
+
+https://en.wikipedia.org/wiki/MIPS_architecture
+
 ![cpuwithcompletepipeline](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/2020-02-10-101216_1366x768_scrot.png)
 
 I wrote these files while I was attending 'Computer's Architecture' held by Prof. Sterbini in Sapienza University of Rome.
