@@ -5,9 +5,10 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 
 <div align="center"><img width="300" height="300" src="https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/unnamed.png" /></div>
 
--------------------------------------------------------------
+-------------
 
-**MIPS ARCHITECTURE**
+MIPS Architecture 💾
+-------
 
 https://en.wikipedia.org/wiki/MIPS_architecture
 
@@ -41,17 +42,16 @@ The course concerned about:
 
 [The Mips Architecture](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/CPU-con-pipeline-completa.pdf)
 
--------------------------
+
 Download :satellite:
--------------------------
+----------
 
 [v1.0](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.0)
 
---------------------------
 If you liked it drop a :star:
---------------------------
+----------
 
 https://www.edoardoottavianelli.it for contact me.
 
 
-                                                                                                Edoardo Ottavianelli ©
+                                                                   Edoardo Ottavianelli ©
