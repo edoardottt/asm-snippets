@@ -48,6 +48,8 @@ Download :satellite:
 
 [v1.0](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.0)
 
+- `git clone https://github.com/edoardottt/Asm_mars_examples.git`
+
 If you liked it drop a :star:
 ----------
 
