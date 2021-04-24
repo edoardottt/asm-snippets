@@ -50,10 +50,8 @@ Download :satellite:
 
 - `git clone https://github.com/edoardottt/Asm_mars_examples.git`
 
-If you liked it drop a :star:
-----------
+License 📝
+-------
 
-https://www.edoardoottavianelli.it for contact me.
-
-
-                                                                   Edoardo Ottavianelli ©
+This repository is [unlicensed](https://github.com/edoardottt/Asm_mars_examples/blob/master/LICENSE).  
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) for contact me.
