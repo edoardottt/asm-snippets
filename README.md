@@ -54,4 +54,4 @@ License 📝
 -------
 
 This repository is [unlicensed](https://github.com/edoardottt/Asm_mars_examples/blob/master/LICENSE).  
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) for contact me.
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
