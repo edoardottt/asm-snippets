@@ -5,7 +5,6 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 
 <div align="center"><img width="300" height="300" src="https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/unnamed.png" /></div>
 
--------------
 
 MIPS Architecture 💾
 -------
@@ -44,7 +43,7 @@ The course concerned about:
 
 
 Download :satellite:
-----------
+-------
 
 - [v1.0](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.0)
 
