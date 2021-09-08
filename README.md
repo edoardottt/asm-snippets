@@ -45,7 +45,7 @@ The course concerned about:
 Download :satellite:
 -------
 
-- [v1.0](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.0)
+- [v1.1](https://github.com/edoardottt/Asm_mars_examples/releases/tag/v1.1)
 
 - `git clone https://github.com/edoardottt/Asm_mars_examples.git`
 
