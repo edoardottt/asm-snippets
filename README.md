@@ -9,7 +9,7 @@ Some of my assembly code (examples, iterative and recursive algorithms).
 MIPS Architecture 💾
 -------
 
-https://en.wikipedia.org/wiki/MIPS_architecture
+Source: https://en.wikipedia.org/wiki/MIPS_architecture
 
 ![cpuwithcompletepipeline](https://github.com/edoardottt/Asm_mars_examples/blob/master/resources/2020-02-10-101216_1366x768_scrot.png)
 
