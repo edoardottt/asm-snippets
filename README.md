@@ -1,9 +1,6 @@
 # Asm_mars_examples
 Some of my assembly code (examples, iterative and recursive algorithms).
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/01b7f84f58384bad948b281f22f7b730)](https://www.codacy.com/manual/edoardottt/twitterBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=edoardottt/twitterBot&amp;utm_campaign=Badge_Grade)
-
-
 MIPS Architecture 💾
 -------
 
