@@ -21,10 +21,10 @@ main:
 	la $t6, vettoreascii                                                  #carico in $t6 il vettoreascii
 	scorrivettore:        
 	lb $t3,0($t6)                                                   #carico in $t3 l'indirizzo dell'i-esimo valore di vettoreascii
-	beq $t3,'\0',stampa                                     		#se il vettore è finito stampo
+	beq $t3,'\0',stampa                                     		#se il vettore ï¿½ finito stampo
 		contaoccorrenzetesto1:
 		lb $t2,0($t0)                                           #carico in $t2 l'i-esimo valore di testo1         
-		beq $t2,'\0',contaocctesto2                             #se la stringa è finita vado a contaocctesto2
+		beq $t2,'\0',contaocctesto2                             #se la stringa ï¿½ finita vado a contaocctesto2
 		beq $t2,$t3,aggiungioccparziale1                        #se $t2 e $t3 sono uguali aggiungo un'occorrenza parziale    
 		addi $t0,$t0,1 						#passo al valore successivo
 		j contaoccorrenzetesto1
@@ -36,7 +36,7 @@ main:
 				
 				contaocctesto2:
 				lb $t7,0($t1)                           #carico in $t7 l'i-esimo valore di testo2                   
-				beq $t7,'\0',aggiornacontfinale         #se testo2 è finito aggiorno il contatore finale                     
+				beq $t7,'\0',aggiornacontfinale         #se testo2 ï¿½ finito aggiorno il contatore finale                     
 				beq $t7,$t3,aggiungioccparziale2        #se $t7 e $t3 sono uguali aggiungo un'occorrenza parziale                      
 				addi $t1,$t1,1                          #passo al valore successivo
 				j contaocctesto2
@@ -58,10 +58,10 @@ main:
 		j scorrivettore
 		
 		stampa:
-		beq $t5,0, anag                                         #se la differenza è 0 stampa ANAGRAMMA
-		beq $t5,1,simil						#se la differenza è 1 o 2 stampa SIMILI
+		beq $t5,0, anag                                         #se la differenza ï¿½ 0 stampa ANAGRAMMA
+		beq $t5,1,simil						#se la differenza ï¿½ 1 o 2 stampa SIMILI
 		beq $t5,2,simil
-		bge $t5,3,diver						#se la differenza è >= 3 stampa DIVERSI
+		bge $t5,3,diver						#se la differenza ï¿½ >= 3 stampa DIVERSI
 		
 		anag:
 		li $v0,4
@@ -83,6 +83,3 @@ main:
 		termina:
 		li $v0,10
 		syscall
-		
-		
-	
