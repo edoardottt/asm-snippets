@@ -34,12 +34,17 @@ Syllabus:
   - Interfacing I/O Devices to the Processor, Memory, and Operating System
 
 
-Download :satellite:
+Download ⬇️
 -------
 
 ```console
 git clone https://github.com/edoardottt/asm-snippets
 ```
+
+Contributing 🤝
+------
+
+If you spot an error just open an [issue](https://github.com/edoardottt/asm-snippets).
 
 License 📝
 -------
