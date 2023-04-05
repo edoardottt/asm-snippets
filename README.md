@@ -1,5 +1,3 @@
-Some of my assembly code (examples, iterative and recursive algorithms).
-
 MIPS Architecture 💾
 -------
 
