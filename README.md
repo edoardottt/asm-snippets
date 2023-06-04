@@ -6,7 +6,7 @@ Ref: https://en.wikipedia.org/wiki/MIPS_architecture
 
 I wrote these files while I was attending the *Computer's Architecture* course held by Professor Sterbini in Sapienza University of Rome.  
 
-Syllabus:
+Course syllabus:
 
   - Computer Abstractions and Technology
   - Operations of the Computer Hardware
