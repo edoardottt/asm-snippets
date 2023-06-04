@@ -42,7 +42,7 @@ git clone https://github.com/edoardottt/asm-snippets
 Contributing 🤝
 ------
 
-If you spot an error just open an [issue](https://github.com/edoardottt/asm-snippets).
+If you spot an error just open an [issue](https://github.com/edoardottt/asm-snippets/issues).
 
 License 📝
 -------
