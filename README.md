@@ -47,4 +47,4 @@ License 📝
 -------
 
 This repository is [unlicensed](https://github.com/edoardottt/asm-snippets/blob/master/LICENSE).  
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
